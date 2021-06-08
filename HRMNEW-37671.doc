@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#HRMNEW-37671] BREDS II&gt;Scenario Compare&gt; getting unexpected scenariocompare difference for the fund BREDS II in Q1 2020.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://blackstone.jira.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [HRMNEW-37671]&nbsp;<a href="https://blackstone.jira.com/browse/HRMNEW-37671">BREDS II&gt;Scenario Compare&gt; getting unexpected scenariocompare difference for the fund BREDS II in Q1 2020.</a>
+            <span class="subText">
+               Created: 21/May/20                   &nbsp;Updated: 22/May/20
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Open</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://blackstone.jira.com/secure/BrowseProject.jspa?id=10019">Niagara</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                                        <a title="Scenario Compare"
+                href="https://blackstone.jira.com/issues/?jql=project%3D10019%20AND%20%22component%22%3D11103%20ORDER%20BY%20priority%20ASC"
+            >Scenario Compare</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="Shabib.Mirza"
+                id="word_reporter_Shabib.Mirza"
+                href="https://blackstone.jira.com/secure/ViewProfile.jspa?accountId=5e13eba30af0d70e911ccef7">
+                    Shabib Mirza
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="darren.grove@blackstone.com"
+                id="word_assignee_darren.grove@blackstone.com"
+                href="https://blackstone.jira.com/secure/ViewProfile.jspa?accountId=557058%3Ab74609e7-4262-4f6e-a5a6-70125b30d63d">
+                    Darren Grove
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-626087-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Environment:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>QA</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://blackstone.jira.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    (BREDS II) Auto_Rerun_Of_Scenario_ID__17773237 - 5_21_2020 9_41_25 AM.gz &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://blackstone.jira.com/browse/HRMNEW-20062">
+                     HRMNEW-20062                 </a>
+            </td>
+            <td>
+                Scenario Compare for Fund: BREDS II	
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10502-626087-value" class="value" bgcolor="#ffffff" width="80%">Niagara April 2020 - Sprint 4</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_12000-626087-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-7" href="https://blackstone.jira.com/browse/HRMNEW-37022">
+        Niagara General Bugs/Support Issues Epic
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Additional Bug/Enhancement Status:</b></td>
+                <td id="customfield_11800-626087-value" class="value" bgcolor="#ffffff" width="80%">    Code Issue
+</td>
+            </tr>
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Environment:</b></td>
+                <td id="customfield_10112-626087-value" class="value" bgcolor="#ffffff" width="80%">    QA
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Testing Type:</b></td>
+                <td id="customfield_16200-626087-value" class="value" bgcolor="#ffffff" width="80%">
+
+
+    <div class="shorten" id="customfield_16200-field">
+        							<span>Regression</span>			            </div>
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Environment</b> : QA<br/>
+<b>Fund tested</b>: BREDS II<br/>
+<b>Scenario Link</b> :<a href="https://qa.bxaccess.com/fundmgmt/Home/Transactions?scenarioId=17801804&amp;refresh=true" class="external-link" rel="nofollow noreferrer">https://qa.bxaccess.com/fundmgmt/Home/Transactions?scenarioId=17801804&amp;refresh=true</a><br/>
+<b>Last Run</b>: 05-11-2020 on staging,and there is no unexpected difference till Q1 2020.</p>
+
+<p><b>Effect/Priority</b>: Critical , as it is blocking scenario compare activity.</p>
+
+<p><b>Summary</b>:BREDS II&gt;Scenario Compare&gt; getting unexpected scenariocompare difference for the fund BREDS II in Q1 2020.</p>
+
+<p><b>Steps</b>:<br/>
+1. Rerun scenario<br/>
+2. Run the scenario compare from Q2 2019 to Q1 2020<br/>
+3. Observe the differences mentioned below:</p>
+
+<p>NIAGARA_BREDS_GROSS_IRR_LP (7197) - Calculation (03/31/2020)<br/>
+NIAGARA_BREDS_NET_IRR_LP (7198) - Calculation (03/31/2020)<br/>
+NIAGARA_BREDS_GROSS_IRR_DEANNUALIZED_LP (7568) - Calculation (03/31/2020)<br/>
+BREDS feeder level Net IRR (12260) - Calculation (03/31/2020)</p>
+
+<p><b>Actual Outcome</b>: There are unexpected scenario compare differences.</p>
+
+<p><b>Expected Outcome</b>:There should be no unexpected scenario compare differences.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Sun May 24 11:45:44 UTC 2020 by Shabib Mirza using Jira 1001.0.0-SNAPSHOT#100127-sha1:ff24dc8ebb7c671d6f98aa545c62f3b905b0d71c.
+
+</body>
+</html>
